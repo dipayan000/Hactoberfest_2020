@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Map Application</string>
+    <string name="app_name">Countries Listview</string>
+    <string-array name="Country_names">
+        <item>India</item>
+        <item>Australia</item>
+        <item>Pakisthan</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Brazil</item>
+    </string-array>
 </resources>
